@@ -1,6 +1,6 @@
 {
   "name": "pushapps",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Pushapps  REST client for node.js",
   "main": "pushapps.js",
   "scripts": {

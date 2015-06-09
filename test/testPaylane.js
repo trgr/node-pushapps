@@ -8,6 +8,11 @@ describe( 'RemoteAPI' , function() {
 		pushapps.RemoteAPI.should.have.property('RegisterDevice')
 		done()
 	})
+
+		it( 'Should have function CreateNotification' , function( done ){
+		pushapps.RemoteAPI.should.have.property('CreateNotification')
+		done()
+	})
 })
 
 

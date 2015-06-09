@@ -24,7 +24,7 @@ var setCredentials = function( user , pass){
 }
 
 var routeConfig = {
-	"RemoteAPI" : [ "RegisterDevice" ]
+	"RemoteAPI" : [ "RegisterDevice" , "CreateNotification" ]
 }
 
 

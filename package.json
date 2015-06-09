@@ -1,0 +1,21 @@
+{
+  "name": "pushapps",
+  "version": "0.0.1",
+  "description": "Pushapps  REST client for node.js",
+  "main": "pushapps.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "trygve@grimnes.org",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.49.0"
+  },
+  "devDependencies": {
+    "should": "^4.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/trgr/node-pushapps.git"
+  }
+}
